@@ -42,23 +42,12 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-
-
-- **Expo Application Services (EAS)**  
-
-  **Managed build, submit, and update services for React Native/Expo apps** — the official platform for building, deploying, and over-the-air updating React Native applications. **EAS Build** handles native compilation, **EAS Submit** automates store submission, and **EAS Update** enables OTA updates without app store review. **Best for**: React Native teams wanting managed infrastructure without maintaining native build servers.
-
-
-
-- **Ionic Appflow**  
-
-  **Mobile DevOps platform for Ionic and Capacitor apps** — features **cloud builds**, **live updates**, **automated testing**, and **CI/CD integration**. **Best for**: Ionic/Capacitor teams wanting managed build and deployment pipelines.
-
-
-
-- **Google Firebase Extensions for Flutter**  
-
-  **Managed backend services for Flutter apps** — Cloud Firestore, Authentication, Cloud Messaging, and Remote Config with **official FlutterFire plugins**. **Best for**: Flutter teams wanting a managed backend without custom server infrastructure.
+| Platform | Description | Best For | Starting Pricing | Free Tier Limits |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Expo Application Services (EAS)](https://expo.dev/eas)** | Managed build, submit, and update services for React Native/Expo apps (EAS Build, EAS Submit, EAS Update). | React Native teams wanting managed infrastructure without self-hosting build servers. | **$19/month** (Starter plan; Production at $199/month) | **Free forever plan**: 30 total cloud builds/month (max 15 iOS builds, low-priority queue), 1,000 MAU for EAS Update, 100 GiB edge bandwidth/month, and unlimited store submissions via EAS Submit. |
+| **[Ionic Appflow](https://ionic.io/appflow)** | Mobile DevOps platform for Ionic and Capacitor apps featuring cloud builds, live updates, and automated deployments (*sales discontinued Feb 2025; sunsetting Dec 31, 2027*). | Ionic/Capacitor teams maintaining legacy CI/CD pipelines and live updates. | **$49/month** (Launch/Basic legacy entry tiers; production tiers from $499/month) | **Free Community tier**: Basic dashboard and account management; 0 automated live updates/deployments and 0 native cloud builds. |
+| **[Google Firebase Extensions for Flutter](https://firebase.google.com/products/extensions)** | Managed backend services (Firestore, Auth, Functions, Messaging) integrated into Flutter via FlutterFire plugins and pre-packaged serverless workflows. | Flutter developers needing serverless backend infrastructure, authentication, and database features. | **Pay-as-you-go** (Blaze plan required for Cloud Functions/Extensions triggers; compute charged at $0.40/million invocations beyond free allowance) | **Spark Plan (Free forever)**: 50,000 document reads/day, 20,000 writes/day, 20,000 deletes/day, 1 GiB stored data in Firestore; 50,000 MAUs for standard Auth; 10 GB hosting storage and 360 MB/day data transfer (serverless extensions requiring Cloud Functions require Blaze plan with identical free quotas). |
+| **[Codemagic](https://codemagic.io/)** | Mobile-first CI/CD pipeline specialized for Flutter, React Native, Ionic, Capacitor, and native iOS/Android builds. | Mobile development teams wanting automated testing, M2/M4 Apple Silicon cloud runners, and store deployment. | **$0.095/minute** (Pay-as-you-go on macOS M2, $0.045/min on Linux; Team subscriptions start at $333/month billed annually) | **Free forever plan**: 500 build minutes/month on macOS M2 VMs, 1 concurrency, 120-minute build timeout, 3 GB cache, 1 user seat, and unlimited apps. |
 
 
 
