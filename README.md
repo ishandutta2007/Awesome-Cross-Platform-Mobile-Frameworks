@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Cross-Platform-Mobile-Frameworks/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cross-Platform-Mobile-Frameworks?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Cross-Platform-Mobile-Frameworks/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cross-Platform-Mobile-Frameworks?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cross-Platform-Mobile-Frameworks/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Cross-Platform-Mobile-Frameworks?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cross-Platform-Mobile-Frameworks/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -60,61 +60,61 @@ The market exhibits a **bimodal dynamic**:
 
 *Sorted by GitHub stargazers count (descending).*
 
-- **[Flutter](https://github.com/flutter/flutter)** [![GitHub Stars](https://img.shields.io/github/stars/flutter/flutter?style=social&color=white)](https://github.com/flutter/flutter/stargazers)  
+- **[Flutter](https://github.com/flutter/flutter)** [![GitHub_Stars](https://img.shields.io/github/stars/flutter/flutter?style=social&color=white)](https://github.com/flutter/flutter/stargazers)  
   **Google's UI toolkit for natively compiled applications across mobile, web, and desktop from a single codebase** (BSD-3-Clause) — Powered by Dart with a custom GPU-accelerated rendering engine (Impeller/Skia) that controls every rendered pixel. Features sub-second hot reload, a comprehensive built-in widget catalog, and unified multi-platform support across iOS, Android, macOS, Windows, Linux, and embedded devices. Major production users include Google Pay, Alibaba, BMW, eBay, The New York Times, and Nubank.
 
-- **[React Native](https://github.com/facebook/react-native)** [![GitHub Stars](https://img.shields.io/github/stars/facebook/react-native?style=social&color=white)](https://github.com/facebook/react-native/stargazers)  
+- **[React Native](https://github.com/facebook/react-native)** [![GitHub_Stars](https://img.shields.io/github/stars/facebook/react-native?style=social&color=white)](https://github.com/facebook/react-native/stargazers)  
   **Meta's framework for building native iOS and Android apps using React and JavaScript/TypeScript** (MIT) — Renders real platform-native UI widgets rather than web views, allowing apps to look, feel, and perform like handwritten native applications while sharing business logic. Equipped with the New Architecture (TurboModules, Fabric renderer, Hermes JS engine), Skia support, and instant Fast Refresh. Industry adopters include Meta, Microsoft, Shopify, Discord, Instagram, Pinterest, and Uber Eats.
 
-- **[Godot Engine](https://github.com/godotengine/godot)** [![GitHub Stars](https://img.shields.io/github/stars/godotengine/godot?style=social&color=white)](https://github.com/godotengine/godot/stargazers)  
+- **[Godot Engine](https://github.com/godotengine/godot)** [![GitHub_Stars](https://img.shields.io/github/stars/godotengine/godot?style=social&color=white)](https://github.com/godotengine/godot/stargazers)  
   **Multi-platform 2D and 3D game engine** (MIT) — A community-driven engine that deploys games and rich interactive graphics applications to Android, iOS, Windows, macOS, Linux, and Web from one project setup. Supports GDScript, C#, C++, and visual shaders with high-performance rendering.
 
-- **[Tauri Mobile](https://github.com/tauri-apps/tauri)** [![GitHub Stars](https://img.shields.io/github/stars/tauri-apps/tauri?style=social&color=white)](https://github.com/tauri-apps/tauri/stargazers)  
+- **[Tauri Mobile](https://github.com/tauri-apps/tauri)** [![GitHub_Stars](https://img.shields.io/github/stars/tauri-apps/tauri?style=social&color=white)](https://github.com/tauri-apps/tauri/stargazers)  
   **Build smaller, faster, and more secure cross-platform desktop and mobile applications** (Apache-2.0 / MIT) — Uses web technologies (HTML, CSS, JS) on the frontend rendered via the OS's native WebView, combined with a blazing-fast, memory-safe Rust core. Offers an ultra-lightweight alternative to Electron and Cordova with first-class iOS and Android deployment.
 
-- **[Kotlin Multiplatform](https://github.com/JetBrains/kotlin)** [![GitHub Stars](https://img.shields.io/github/stars/JetBrains/kotlin?style=social&color=white)](https://github.com/JetBrains/kotlin/stargazers)  
+- **[Kotlin Multiplatform](https://github.com/JetBrains/kotlin)** [![GitHub_Stars](https://img.shields.io/github/stars/JetBrains/kotlin?style=social&color=white)](https://github.com/JetBrains/kotlin/stargazers)  
   **JetBrains' technology for sharing core Kotlin business logic across mobile, desktop, and web** (Apache-2.0) — Lets teams share networking, data models, persistence, and state logic in Kotlin while keeping 100% native UI layers (SwiftUI on iOS, Jetpack Compose on Android) or composing UI cross-platform with Compose Multiplatform. Backed by Google and JetBrains; used by Netflix, McDonald's, Autodesk, Cash App, and Forbes.
 
-- **[Expo](https://github.com/expo/expo)** [![GitHub Stars](https://img.shields.io/github/stars/expo/expo?style=social&color=white)](https://github.com/expo/expo/stargazers)  
+- **[Expo](https://github.com/expo/expo)** [![GitHub_Stars](https://img.shields.io/github/stars/expo/expo?style=social&color=white)](https://github.com/expo/expo/stargazers)  
   **An open-source framework and productivity layer for universal native apps with React** (MIT) — The standardized development workflow for React Native, supplying file-based routing (Expo Router), unified cross-platform API packages, automated native module compilation via Config Plugins, and seamless EAS integration.
 
-- **[Ionic Framework](https://github.com/ionic-team/ionic-framework)** [![GitHub Stars](https://img.shields.io/github/stars/ionic-team/ionic-framework?style=social&color=white)](https://github.com/ionic-team/ionic-framework/stargazers)  
+- **[Ionic Framework](https://github.com/ionic-team/ionic-framework)** [![GitHub_Stars](https://img.shields.io/github/stars/ionic-team/ionic-framework?style=social&color=white)](https://github.com/ionic-team/ionic-framework/stargazers)  
   **Cross-platform UI component library for building native-quality iOS, Android, and Progressive Web Apps** (MIT) — Built on standards-compliant Web Components with first-class bindings for Angular, React, and Vue. Automatically adapts styling to iOS Human Interface guidelines and Android Material Design.
 
-- **[Avalonia UI](https://github.com/AvaloniaUI/Avalonia)** [![GitHub Stars](https://img.shields.io/github/stars/AvaloniaUI/Avalonia?style=social&color=white)](https://github.com/AvaloniaUI/Avalonia/stargazers)  
+- **[Avalonia UI](https://github.com/AvaloniaUI/Avalonia)** [![GitHub_Stars](https://img.shields.io/github/stars/AvaloniaUI/Avalonia?style=social&color=white)](https://github.com/AvaloniaUI/Avalonia/stargazers)  
   **A cross-platform XAML-based UI framework for .NET** (MIT) — Often termed the cross-platform successor to WPF, Avalonia draws its own controls directly via Skia, delivering pixel-consistent UI across iOS, Android, Windows, macOS, Linux, and WebAssembly with modern C# and MVVM/ReactiveUI patterns.
 
-- **[Quasar Framework](https://github.com/quasarframework/quasar)** [![GitHub Stars](https://img.shields.io/github/stars/quasarframework/quasar?style=social&color=white)](https://github.com/quasarframework/quasar/stargazers)  
+- **[Quasar Framework](https://github.com/quasarframework/quasar)** [![GitHub_Stars](https://img.shields.io/github/stars/quasarframework/quasar?style=social&color=white)](https://github.com/quasarframework/quasar/stargazers)  
   **Vue.js-based framework for SPA, SSR, PWA, mobile (Capacitor/Cordova), and desktop (Electron) applications** (MIT) — Provides over 70 high-performance Material Design UI components and an all-in-one CLI pipeline to package Vue applications for mobile app stores.
 
-- **[NativeScript](https://github.com/NativeScript/NativeScript)** [![GitHub Stars](https://img.shields.io/github/stars/NativeScript/NativeScript?style=social&color=white)](https://github.com/NativeScript/NativeScript/stargazers)  
+- **[NativeScript](https://github.com/NativeScript/NativeScript)** [![GitHub_Stars](https://img.shields.io/github/stars/NativeScript/NativeScript?style=social&color=white)](https://github.com/NativeScript/NativeScript/stargazers)  
   **Empower JavaScript and TypeScript with direct native platform APIs** (Apache-2.0) — Backed by the OpenJS Foundation, NativeScript bridges JavaScript directly to native iOS (UIKit/SwiftUI) and Android (View/Jetpack Compose) platform APIs with zero WebView layer. Supports Angular, Vue, Svelte, React, and plain TypeScript.
 
-- **[.NET MAUI](https://github.com/dotnet/maui)** [![GitHub Stars](https://img.shields.io/github/stars/dotnet/maui?style=social&color=white)](https://github.com/dotnet/maui/stargazers)  
+- **[.NET MAUI](https://github.com/dotnet/maui)** [![GitHub_Stars](https://img.shields.io/github/stars/dotnet/maui?style=social&color=white)](https://github.com/dotnet/maui/stargazers)  
   **Microsoft's multi-platform app UI framework for C# and XAML** (MIT) — The evolution of Xamarin.Forms, unifying Android, iOS, macOS, and Windows into a single codebase and multi-targeted project system with full native control mappings.
 
-- **[Framework7](https://github.com/framework7io/framework7)** [![GitHub Stars](https://img.shields.io/github/stars/framework7io/framework7?style=social&color=white)](https://github.com/framework7io/framework7/stargazers)  
+- **[Framework7](https://github.com/framework7io/framework7)** [![GitHub_Stars](https://img.shields.io/github/stars/framework7io/framework7?style=social&color=white)](https://github.com/framework7io/framework7/stargazers)  
   **Full-featured mobile HTML framework for building iOS and Android apps with native look & feel** (MIT) — A lightweight web-first framework that provides pixel-perfect iOS and Material Design themes with ready-to-use widgets for Vue, React, Svelte, and vanilla JavaScript.
 
-- **[Flet](https://github.com/flet-dev/flet)** [![GitHub Stars](https://img.shields.io/github/stars/flet-dev/flet?style=social&color=white)](https://github.com/flet-dev/flet/stargazers)  
+- **[Flet](https://github.com/flet-dev/flet)** [![GitHub_Stars](https://img.shields.io/github/stars/flet-dev/flet?style=social&color=white)](https://github.com/flet-dev/flet/stargazers)  
   **Build multi-platform Python applications based on Flutter** (Apache-2.0) — Enables Python developers to construct interactive, real-time web, desktop, and mobile applications with zero frontend experience, utilizing Flutter's UI engine behind Python bindings.
 
-- **[Capacitor](https://github.com/ionic-team/capacitor)** [![GitHub Stars](https://img.shields.io/github/stars/ionic-team/capacitor?style=social&color=white)](https://github.com/ionic-team/capacitor/stargazers)  
+- **[Capacitor](https://github.com/ionic-team/capacitor)** [![GitHub_Stars](https://img.shields.io/github/stars/ionic-team/capacitor?style=social&color=white)](https://github.com/ionic-team/capacitor/stargazers)  
   **Modern native runtime and bridge for Web Applications on iOS, Android, and Desktop** (MIT) — The spiritual successor to Apache Cordova created by Ionic. Exposes direct native iOS (Swift/Obj-C) and Android (Kotlin/Java) APIs to standard web apps running in modern WebViews with complete control over native project files.
 
-- **[Valdi](https://github.com/Snapchat/Valdi)** [![GitHub Stars](https://img.shields.io/github/stars/Snapchat/Valdi?style=social&color=white)](https://github.com/Snapchat/Valdi/stargazers)  
+- **[Valdi](https://github.com/Snapchat/Valdi)** [![GitHub_Stars](https://img.shields.io/github/stars/Snapchat/Valdi?style=social&color=white)](https://github.com/Snapchat/Valdi/stargazers)  
   **Snapchat's cross-platform UI framework delivering native performance** (MIT) — Built by Snap to enable shared native-speed user interfaces across mobile and client platforms with ultra-lean runtime overhead.
 
-- **[Lynx](https://github.com/lynx-family/lynx)** [![GitHub Stars](https://img.shields.io/github/stars/lynx-family/lynx?style=social&color=white)](https://github.com/lynx-family/lynx/stargazers)  
+- **[Lynx](https://github.com/lynx-family/lynx)** [![GitHub_Stars](https://img.shields.io/github/stars/lynx-family/lynx?style=social&color=white)](https://github.com/lynx-family/lynx/stargazers)  
   **ByteDance's next-generation cross-platform engine built in Rust with Skia rendering** (Apache-2.0) — Compiles JSX layout and reactive logic directly to native code without runtime bridge serialization penalties. Battle-tested inside TikTok, TikTok Studio, and ByteDance commercial apps.
 
-- **[Uno Platform](https://github.com/unoplatform/uno)** [![GitHub Stars](https://img.shields.io/github/stars/unoplatform/uno?style=social&color=white)](https://github.com/unoplatform/uno/stargazers)  
+- **[Uno Platform](https://github.com/unoplatform/uno)** [![GitHub_Stars](https://img.shields.io/github/stars/unoplatform/uno?style=social&color=white)](https://github.com/unoplatform/uno/stargazers)  
   **Pixel-perfect multi-platform development with C# and WinUI / XAML** (Apache-2.0) — Runs single-codebase C# applications natively on iOS, Android, macOS, Linux, Windows, and WebAssembly, mirroring Microsoft WinUI and Windows App SDK APIs.
 
-- **[Apache Cordova Android](https://github.com/apache/cordova-android)** [![GitHub Stars](https://img.shields.io/github/stars/apache/cordova-android?style=social&color=white)](https://github.com/apache/cordova-android/stargazers)  
+- **[Apache Cordova Android](https://github.com/apache/cordova-android)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/cordova-android?style=social&color=white)](https://github.com/apache/cordova-android/stargazers)  
   **The foundational open-source mobile web application platform** (Apache-2.0) — Packages standard HTML, CSS, and JavaScript into native WebView shells with plugin access to device sensors, camera, filesystem, and native services.
 
-- **[Tabris.js](https://github.com/eclipsesource/tabris-js)** [![GitHub Stars](https://img.shields.io/github/stars/eclipsesource/tabris-js?style=social&color=white)](https://github.com/eclipsesource/tabris-js/stargazers)  
+- **[Tabris.js](https://github.com/eclipsesource/tabris-js)** [![GitHub_Stars](https://img.shields.io/github/stars/eclipsesource/tabris-js?style=social&color=white)](https://github.com/eclipsesource/tabris-js/stargazers)  
   **Native mobile apps in JavaScript and TypeScript without WebViews** (BSD-3-Clause) — Executes code directly on native JavaScript engines, binding components straight into native UIKit and Android platform views with Java/TypeScript enterprise development tooling.
 
 ---
